@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/Planetarium-3Dweb/static/css/main.c66fc559.chunk.css",
+    "main.js": "/Planetarium-3Dweb/static/js/main.d79761a3.chunk.js",
+    "main.js.map": "/Planetarium-3Dweb/static/js/main.d79761a3.chunk.js.map",
+    "runtime~main.js": "/Planetarium-3Dweb/static/js/runtime~main.b1f1db6f.js",
+    "runtime~main.js.map": "/Planetarium-3Dweb/static/js/runtime~main.b1f1db6f.js.map",
+    "static/js/2.df8b21f1.chunk.js": "/Planetarium-3Dweb/static/js/2.df8b21f1.chunk.js",
+    "static/js/2.df8b21f1.chunk.js.map": "/Planetarium-3Dweb/static/js/2.df8b21f1.chunk.js.map",
+    "static/js/3.d5f86460.chunk.js": "/Planetarium-3Dweb/static/js/3.d5f86460.chunk.js",
+    "static/js/3.d5f86460.chunk.js.map": "/Planetarium-3Dweb/static/js/3.d5f86460.chunk.js.map",
+    "index.html": "/Planetarium-3Dweb/index.html",
+    "precache-manifest.0b7fdebafc4ba0b2fcee7902d2867895.js": "/Planetarium-3Dweb/precache-manifest.0b7fdebafc4ba0b2fcee7902d2867895.js",
+    "service-worker.js": "/Planetarium-3Dweb/service-worker.js",
+    "static/css/main.c66fc559.chunk.css.map": "/Planetarium-3Dweb/static/css/main.c66fc559.chunk.css.map"
+  }
+}
