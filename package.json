@@ -12,7 +12,7 @@
     "axios": "^1.7.7",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
-    "react-scripts": "^4.0.3",  // Usaremos una versión estable y más reciente de react-scripts
+    "react-scripts": "^4.0.3",  
     "three": "^0.169.0",
     "three-orbitcontrols": "^2.110.2",
     "web-vitals": "^2.1.4"
